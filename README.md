@@ -33,8 +33,8 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| IO      | [Link](https://github.com/MartimRedondo/IO) | Já não me recordo para que servia, nem como foi feito, nem como funciona | — | 16 |
-| MNOL    | [Link](https://github.com/MartimRedondo/MNOL) | Trabalho facultativo, usava MatLab, já não me lembro do intuito | MatLab | 17 |
+| IO      | [Link](https://github.com/MartimRedondo/IO)   | - | IpSolve, Relax4 | 16 |
+| MNOL    | [Link](https://github.com/MartimRedondo/MNOL) | - | MatLab | 17 |
 
 </details>
 
@@ -43,9 +43,9 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| DSS | [Link](https://github.com/MartimRedondo/DSS) | — | — | — |
+| DSS | [Link](https://github.com/MartimRedondo/DSS) | — | Visual Studio | 13 |
 | IA | [Link](https://github.com/MartimRedondo/IA) | — | — | — |
-| LI4 | [Link](https://github.com/MartimRedondo/LI4) | — | — | — |
+| LI4 | [Link](https://github.com/MartimRedondo/LI4) | Aplicação automóvel | — | 16 |
 
 </details>
 
@@ -109,6 +109,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 | Tese de Mestrado | [Link](https://github.com/MartimRedondo/Tese) | Avaliação dinâmica de superfícies de ataque baseadas em análise de código web | — | — |
 
 </details>
+
 ---
 
 <p align="center">
