@@ -11,9 +11,11 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 </details>
 
 <details>
-<summary><strong>1º Ano — 2º Semestre</strong></summary>
+<summary><strong>1º Ano</strong></summary>
 
-Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, como a calculadora de stack feita em LI2 usando C.
+| Cadeira | Repositório | Descrição | Tecnologias | Nota |
+|---------|-------------|-----------|-------------|------|
+| LI1     | [Link](https://github.com/MartimRedondo/LI1) | DudeBlock caseiro | Haskell | 19 |
 
 </details>
 
@@ -22,7 +24,7 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| LI3     | [Link](https://github.com/MartimRedondo/repo) | Trabalho de tratamento de dados e hashtables | C, Valgrind | 16 |
+| LI3     | [Link](https://github.com/MartimRedondo/LI3) | Trabalho de tratamento de dados e hashtables | C, Valgrind | 16 |
 
 </details>
 
@@ -31,8 +33,8 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
+| IO      | [Link](https://github.com/MartimRedondo/IO) | Já não me recordo para que servia, nem como foi feito, nem como funciona | — | 16 |
+| MNOL    | [Link](https://github.com/MartimRedondo/MNOL) | Trabalho facultativo, usava MatLab, já não me lembro do intuito | MatLab | 17 |
 
 </details>
 
@@ -41,8 +43,9 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
+| DSS | [Link](https://github.com/MartimRedondo/DSS) | — | — | — |
+| IA | [Link](https://github.com/MartimRedondo/IA) | — | — | — |
+| LI4 | [Link](https://github.com/MartimRedondo/LI4) | — | — | — |
 
 </details>
 
@@ -51,8 +54,9 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
+| ADI | [Link](https://github.com/MartimRedondo/ADI) | — | — | — |
+| CG | [Link](https://github.com/MartimRedondo/CG) | — | — | — |
+| PL | [Link](https://github.com/MartimRedondo/CG) | — | — | — |
 
 </details>
 
@@ -66,8 +70,11 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
+| ASCN | [Link](https://github.com/MartimRedondo/ASCN) | — | — | — |
+| CPar | [Link](https://github.com/MartimRedondo/CPar) | — | — | — |
+| DAA | [Link](https://github.com/MartimRedondo/DAA) | — | — | — |
+| ESR | [Link](https://github.com/MartimRedondo/ESR) | — | — | — |
+| RAS | [Link](https://github.com/MartimRedondo/RAS) | — | — | — |
 
 </details>
 
@@ -76,8 +83,12 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
+| CG -  VCPI| [Link](https://github.com/MartimRedondo/VCPI) | — | — | — |
+| CG -  VI| [Link](https://github.com/MartimRedondo/VI) | — | — | — |
+| CG -  VTR| [Link](https://github.com/MartimRedondo/VTR) | — | — | — |
+| CSI - ES| [Link](https://github.com/MartimRedondo/ES) | — | — | — |
+| CSI - EC| [Link](https://github.com/MartimRedondo/EC) | — | — | — |
+| CSI - TS| [Link](https://github.com/MartimRedondo/TS) | — | — | — |
 
 </details>
 
@@ -86,8 +97,7 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
-| Nome da Cadeira | [Link](https://github.com/MartimRedondo/repo) | — | — | — |
+| Projeto de Informática | [Link](https://github.com/MartimRedondo/PI) | — | — | — |
 
 </details>
 
@@ -96,18 +106,9 @@ Tudo sobre o primeiro ano foi perdido, tanto o jogo ( feito em LI1 em haskell, c
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Tese de Mestrado | [Link](https://github.com/MartimRedondo/repo) | Avaliação dinâmica de superfícies de ataque baseadas em análise de código web | — | — |
+| Tese de Mestrado | [Link](https://github.com/MartimRedondo/Tese) | Avaliação dinâmica de superfícies de ataque baseadas em análise de código web | — | — |
 
 </details>
-
----
-
-## 📝 Notas
-
-- **—** indica informação não preenchida (opcional)
-- Repositórios privados estão marcados com 🔒
-- Projetos em grupo indicam os colaboradores no respetivo repositório
-
 ---
 
 <p align="center">
