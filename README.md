@@ -1,6 +1,7 @@
 # 📚 Projetos Académicos — Universidade do Minho
 
-Repositório com todos os projetos desenvolvidos durante a Licenciatura e Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt).
+Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) durante a Licenciatura e Mestrado em Engenharia Informática na [Universidade do Minho](https://www.uminho.pt).
+> ⚠️ **Nota:** Os commits e colaboradores originais não aparecem porque os projetos foram inicialmente desenvolvidos numa conta Git institucional à qual perdi o acesso. Este repositório serve agora como arquivo oficial.
 
 ---
 
