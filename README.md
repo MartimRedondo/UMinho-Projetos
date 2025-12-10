@@ -45,7 +45,6 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 |---------|-------------|-----------|-------------|------|
 | DSS | [Link](https://github.com/MartimRedondo/DSS) | — | Visual Studio | 13 |
 | IA | [Link](https://github.com/MartimRedondo/IA) | — | Python, Prolog | 16 |
-| LI4 | [Link](https://github.com/MartimRedondo/LI4) | Aplicação automóvel | — | 16 |
 
 </details>
 
