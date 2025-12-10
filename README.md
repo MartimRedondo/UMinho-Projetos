@@ -72,9 +72,9 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 |---------|-------------|-----------|-------------|------|
 | ASCN | [Link](https://github.com/MartimRedondo/ASCN) | — | Google Cloud, Kubernets | 13 |
 | CPar | [Link](https://github.com/MartimRedondo/CPar) | Otimização de código | OpenMP, CUDA | 15 |
-| DAA | [Link](https://github.com/MartimRedondo/DAA) | Machine Learning - modelo capaz de analisar e classificar a evolução da saúde mental dos pacientes | Análise e modelagem de dados em Python | 16 |
-| ESR | [Link](https://github.com/MartimRedondo/ESR) | Desenvolvimento e análise de um sistema distribuído de streaming multimédia. | Roteamento, protocolos, streaming e tolerância a falhas | 18 |
-| RAS | [Link](https://github.com/MartimRedondo/RAS) | — | — | — |
+| DAA | [Link](https://github.com/MartimRedondo/DAA) | Machine Learning - modelo capaz de analisar e classificar a evolução da saúde mental dos pacientes | Análise, modelagem de dados em Python | 16 |
+| ESR | [Link](https://github.com/MartimRedondo/ESR) | Desenvolvimento e análise de um sistema distribuído de streaming multimédia. | Roteamento, protocolos, streaming, tolerância a falhas | 18 |
+| RAS | [Link](https://github.com/MartimRedondo/RAS) | Definição completa dos requisitos e modelo arquitetural do sistema PictuRAS | Modelação, Requisitos, Arquitetura | 17 |
 
 </details>
 
@@ -83,7 +83,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| CG -  VCPI| [Link](https://github.com/MartimRedondo/VCPI) | — | — | — |
+| CG -  VCPI| [Link](https://github.com/MartimRedondo/VCPI) | Ajuste de imagens e machine learning | PyTorch | 16 |
 | CG -  VI| [Link](https://github.com/MartimRedondo/VI) | — | — | — |
 | CG -  VTR| [Link](https://github.com/MartimRedondo/VTR) | — | — | — |
 | CSI - ES| [Link](https://github.com/MartimRedondo/ES) | — | — | — |
