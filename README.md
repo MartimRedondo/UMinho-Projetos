@@ -53,9 +53,10 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| ADI | [Link](https://github.com/MartimRedondo/ADI) | — | — | — |
-| CG | [Link](https://github.com/MartimRedondo/CG) | — | — | — |
-| PL | [Link](https://github.com/MartimRedondo/CG) | — | — | — |
+| ADI | [Link](https://github.com/MartimRedondo/ADI) | - | KNIME | 15 |
+| CG | [Link](https://github.com/MartimRedondo/CG) | 3D Engine de pequena escala | XML, C++, CMAKE | 15 |
+| PL | [Link](https://github.com/MartimRedondo/CG) | Compilador Forth | Lex, YACC, Python | 17 |
+| IPM | [Link](https://github.com/MartimRedondo/IPM) | App de gerenciar serviços automóveis | Vue, JavaScript, HTML, CSS | 12 |
 
 </details>
 
@@ -69,10 +70,10 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| ASCN | [Link](https://github.com/MartimRedondo/ASCN) | — | — | — |
-| CPar | [Link](https://github.com/MartimRedondo/CPar) | — | — | — |
-| DAA | [Link](https://github.com/MartimRedondo/DAA) | — | — | — |
-| ESR | [Link](https://github.com/MartimRedondo/ESR) | — | — | — |
+| ASCN | [Link](https://github.com/MartimRedondo/ASCN) | — | Google Cloud, Kubernets | 13 |
+| CPar | [Link](https://github.com/MartimRedondo/CPar) | Otimização de código | OpenMP, CUDA | 15 |
+| DAA | [Link](https://github.com/MartimRedondo/DAA) | Machine Learning - modelo capaz de analisar e classificar a evolução da saúde mental dos pacientes | Análise e modelagem de dados em Python | 16 |
+| ESR | [Link](https://github.com/MartimRedondo/ESR) | Desenvolvimento e análise de um sistema distribuído de streaming multimédia. | Roteamento, protocolos, streaming e tolerância a falhas | 18 |
 | RAS | [Link](https://github.com/MartimRedondo/RAS) | — | — | — |
 
 </details>
