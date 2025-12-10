@@ -86,7 +86,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 | CG -  VCPI| [Link](https://github.com/MartimRedondo/VCPI) | Ajuste de imagens e machine learning | PyTorch | 16 |
 | CG -  VI| [Link](https://github.com/MartimRedondo/VI) | Otimização e funcionalidades avançadas para Ray Tracing | - | 18 |
 | CG -  VTR| [Link](https://github.com/MartimRedondo/VTR) | Geração de terreno e Algoritmos de geração procedural de árvores | C++, C  | 15 |
-| CSI - ES| [Link](https://github.com/MartimRedondo/ES) | — | — | 13 (-2 valores de faltas) |
+| CSI - ES| [Link](https://github.com/MartimRedondo/ES) | — | — | 13 ||(-2 valores devido à assuidade)|| |
 | CSI - EC| [Link](https://github.com/MartimRedondo/EC) | — | — | 15 |
 | CSI - TS| [Link](https://github.com/MartimRedondo/TS) | — | — | 17 |
 
