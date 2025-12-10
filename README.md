@@ -33,7 +33,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| IO      | [Link](https://github.com/MartimRedondo/IO)   | - | IpSolve, Relax4 | 16 |
+| IO      | [Link](https://github.com/MartimRedondo/IO)   | A pasta estava confusa, então a primeira fase do projeto pode não estar 100% bem | IpSolve, Relax4 | 16 |
 | MNOL    | [Link](https://github.com/MartimRedondo/MNOL) | - | MatLab | 17 |
 
 </details>
