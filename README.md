@@ -35,6 +35,8 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 |---------|-------------|-----------|-------------|------|
 | IO      | [Link](https://github.com/MartimRedondo/IO)   | NOTA: A primeira parte do projeto pode ter lapsos/falhas | IpSolve, Relax4 | 16 |
 | MNOL    | [Link](https://github.com/MartimRedondo/MNOL) | - | MatLab | 17 |
+| BD    | [Link](https://github.com/MartimRedondo/BD) | Trabalho sobre vinhos | SQL, Python | 16 |
+| POO    | [Link](https://github.com/MartimRedondo/POO) | "Loja de Roupa" | Java | 14 |
 
 </details>
 
@@ -45,6 +47,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 |---------|-------------|-----------|-------------|------|
 | DSS | [Link](https://github.com/MartimRedondo/DSS) | — | Visual Studio | 13 |
 | IA | [Link](https://github.com/MartimRedondo/IA) | — | Python, Prolog | 16 |
+| LI4 | [Link](https://github.com/MartimRedondo/LI4) | PitStopAuctions (leilão de carros) | C#, razor, CSS, bootstrap | 15 |
 
 </details>
 
@@ -86,9 +89,9 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 | CG -  VCPI| [Link](https://github.com/MartimRedondo/VCPI) | Ajuste de imagens e machine learning | PyTorch | 16 |
 | CG -  VI| [Link](https://github.com/MartimRedondo/VI) | Otimização e funcionalidades avançadas para Ray Tracing | - | 18 |
 | CG -  VTR| [Link](https://github.com/MartimRedondo/VTR) | Geração de terreno e Algoritmos de geração procedural de árvores | C++, C  | 15 |
-| CSI - ES| [Link](https://github.com/MartimRedondo/ES) | — | — | 13¹ |
-| CSI - EC| [Link](https://github.com/MartimRedondo/EC) | — | — | 15 |
-| CSI - TS| [Link](https://github.com/MartimRedondo/TS) | — | — | 17 |
+| CSI - EC| [Link](https://github.com/MartimRedondo/EC) | Comunicação privada assíncrona, Criptografia assimétrica, LPN e OT , Algoritmos pós-quânticos | Python, cryptography, SageMath | 16 |
+| CSI - ES| [Link](https://github.com/MartimRedondo/ES) | Secure Vault | Python, FastAPI, Typer, Pydantic, PyJWT | 13¹ |
+| CSI - TS| [Link](https://github.com/MartimRedondo/TS) | Segurança de sistemas: análise de risco, pentesting e implementação do modelo Bell-LaPadula | MITRE ATTACK, OWASP, Threat Modeling, Nmap, Wireshark, Snort,  | 17 |
 
 </details>
 
