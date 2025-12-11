@@ -58,7 +58,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 |---------|-------------|-----------|-------------|------|
 | ADI | [Link](https://github.com/MartimRedondo/ADI) | - | KNIME | 15 |
 | CG | [Link](https://github.com/MartimRedondo/CG) | 3D Engine de pequena escala | XML, C++, CMAKE | 15 |
-| PL | [Link](https://github.com/MartimRedondo/CG) | Compilador Forth | Lex, YACC, Python | 17 |
+| PL | [Link](https://github.com/MartimRedondo/PL) | Compilador Forth | Lex, YACC, Python | 17 |
 | IPM | [Link](https://github.com/MartimRedondo/IPM) | App de gerenciar serviços automóveis | Vue, JavaScript, HTML, CSS | 12 |
 
 </details>
