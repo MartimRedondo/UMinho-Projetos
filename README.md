@@ -100,7 +100,7 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
-| Projeto de Informática | [Link](https://github.com/MartimRedondo/PI) | — | — | — |
+| Projeto de Informática | [Link](https://github.com/MartimRedondo/F3M_APP) | Tentativa de criação de uma app de toma de medicamentos para pessoas com demência |  React Native/Expo e TypeScript | 18 |
 
 </details>
 
