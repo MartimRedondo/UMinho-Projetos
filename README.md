@@ -110,6 +110,8 @@ Repositório com todos os projetos desenvolvidos (e que ainda tinha guardado) du
 | Cadeira | Repositório | Descrição | Tecnologias | Nota |
 |---------|-------------|-----------|-------------|------|
 | Tese de Mestrado | [Link](https://github.com/MartimRedondo/Tese) | Avaliação dinâmica de superfícies de ataque baseadas em análise de código web | — | — |
+| CSI_extra_project | [Link](https://github.com/rubensilva091/Final-Project-CSI) | Estudo sobre as vulnerabilidades do blockcahin, com base no OWASP TOP 10 | Solidity e Python | 16 |
+| CG_extra_project | [Link](https://github.com/jessicaclcunha/Project-CG) | Estudo e implementação de BRDFs | C++ | — |
 
 </details>
 
